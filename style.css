@@ -1,0 +1,47 @@
+
+header{
+	position: relative;
+	padding: 0%;
+}
+
+section{
+	background-image: url(https://media.istockphoto.com/vectors/seamless-sea-turtle-pattern-background-vector-id1037666810);
+	padding: 2%;
+	overflow: auto;
+}
+
+section h1{
+	font-size: 2em;
+	padding: 1% 2%;
+	font-weight: 900;
+	background: #27266e;
+	color: white;
+	border-radius: 0px;
+	margin: 0%;
+}
+
+.content-box{
+	display: block;
+	padding: 2% 2% 2% 2%;
+	float: left;
+	background: white;
+	width: 55%;
+}
+
+.img-box{
+	display: block;
+	float: left;
+	width: 41%;
+	margin: 0% 0% -1% 0%;
+}
+
+.img-box img{
+
+max-width: 100%;
+}
+
+	
+.img-box img:hover{
+
+}
+
